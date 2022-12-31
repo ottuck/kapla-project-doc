@@ -1,4 +1,4 @@
-# GlobalIN_team4_KaplaProject
+# GlobaliN_Team4_KaplaProject
 
 노션 주소 :https://jelly-attraction-581.notion.site/Kapla-Project-cda209ffde9d4ecbb5f190cdcb6b64f8<br>
 
