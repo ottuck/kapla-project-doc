@@ -2,7 +2,7 @@
 
 프로젝트명 : Kapla <br>
 팀장 : 김도형(qnfrma1541@gmail.com)<br>
-개발 : 김형우(crazy1123@naver.com) / 박진영()<br>
+개발 : 김형우(crazy1123@naver.com)<br>
 디자인,기획,문서 : 김상현(vison901@naver.com)<br><br>
 
 코드 Git주소 : https://github.com/EmperorBug/globalinFinal<br>
