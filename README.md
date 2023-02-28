@@ -11,6 +11,6 @@
 
 설계 일정 시각화 : https://www.figma.com/file/p8CXT4rDCQkUAckn3wlzv0/figama-first-practice?node-id=0%3A1&t=7x6WkeZZacGFbBvU-1
 
-기획,디자인 단계 PPT : https://www.canva.com/design/DAFNarMzUeU/ZeE5LZxWSAWUYkseSdCV6w/edit?utm_content=DAFNarMzUeU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br><br>
+기획,디자인 단계 PPT : https://www.canva.com/design/DAFNarMzUeU/ZeE5LZxWSAWUYkseSdCV6w/edit?utm_content=DAFNarMzUeU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br>
 
 설계단계 PPT : https://www.canva.com/design/DAFNaplMGkw/ugKAHg3Eh7of7Jv5F31C5w/view?utm_content=DAFNaplMGkw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
