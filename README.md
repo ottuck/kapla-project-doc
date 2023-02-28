@@ -8,3 +8,6 @@
 코드 Git주소 : https://github.com/EmperorBug/globalinFinal<br>
 개발 일정 구글 스프레드시트 : https://docs.google.com/spreadsheets/d/1qkAi9oGp7LsAzBbPDTpUJiuvZNoJV_2ySry-kC5e9Ws/edit#gid=0<br>
 설계 일정 시각화 : https://www.figma.com/file/p8CXT4rDCQkUAckn3wlzv0/figama-first-practice?node-id=0%3A1&t=7x6WkeZZacGFbBvU-1
+
+프로젝트 기획단계 PPT : https://www.canva.com/design/DAFNarMzUeU/ZeE5LZxWSAWUYkseSdCV6w/edit?utm_content=DAFNarMzUeU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+설계단계 PPT : https://www.canva.com/design/DAFNaplMGkw/ugKAHg3Eh7of7Jv5F31C5w/view?utm_content=DAFNaplMGkw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
